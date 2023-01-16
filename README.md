@@ -1,2 +1,4 @@
 # Intergalactic-Investigation
-A 2D Space-Crime Game, developed in Unity with C#
+A 2D Space-Crime Game
+
+Developed in Unity with C#
